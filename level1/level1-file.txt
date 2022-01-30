@@ -1,2 +1,7 @@
 this is the first file created at level1. adding the second line to work on reset and checkout
 
+hello
+hii
+welcome
+
+
